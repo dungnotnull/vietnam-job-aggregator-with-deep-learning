@@ -1,0 +1,89 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "job_title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "company_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "salary": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "location": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "job_type": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "job_industry": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "experience_level": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "education_level": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "job_position": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "job_description": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "benefits": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "requirements": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "year": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "description_length": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "tokens": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "ner_labels": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "classification_labels": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

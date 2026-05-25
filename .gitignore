@@ -1,0 +1,41 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# ML artifacts
+ml/checkpoints/
+ml/logs/
+*.pth
+*.bin
+*.safetensors
+
+# Session cache — NEVER persist
+.session_cache/
+*.session
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Others
+.commandcode

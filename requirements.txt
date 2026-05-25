@@ -1,0 +1,16 @@
+transformers>=4.40.0
+peft>=0.10.0
+datasets>=2.19.0
+torch>=2.2.0
+accelerate>=0.29.0
+bitsandbytes>=0.43.0
+seqeval
+scikit-learn
+pandas
+requests
+beautifulsoup4>=4.12
+lxml
+httpx>=0.27
+playwright
+python-dotenv
+rich
